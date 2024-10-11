@@ -1,5 +1,4 @@
-![zulu bank schema](https://github.com/user-attachments/assets/069df884-1b15-45b7-b470-a5bdefb719be)# Zulo Bank RBDMS PostgreSql
- Zulo Bank seeks to overhaul its data
+Zulo Bank seeks to overhaul its data
 management system to enhance
 efficiency, improve data quality, and
 enable advanced analytics capabilities. The
@@ -27,16 +26,16 @@ to provide clear, visual representations of the data models and their relationsh
 
 # Database Modeling :
 
-#### 1.Convert to 1NF:
+## 1.Convert to 1NF:
 ![image](https://github.com/user-attachments/assets/4817cb17-84a6-4353-bf54-05737908a313)
 
-#### 2.Convert to 2NF :
+## 2.Convert to 2NF :
 ![image](https://github.com/user-attachments/assets/c40a83be-d179-40e7-b1e7-4e4a84242dd0)
 
-#### 3.Convert to 3NF :
+## 3.Convert to 3NF :
 ![image](https://github.com/user-attachments/assets/1cbb2b2b-0ce0-4106-b274-7034e5d4ffa4)
 
-### Star Schema Of Model :
+## Star Schema Of Model :
 ![zulu bank schema](https://github.com/user-attachments/assets/b0f63960-c5f5-455b-9217-bdea987f0cea)
 
 
